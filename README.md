@@ -1,5 +1,5 @@
 <img src="https://github.com/MADMAX-06/MADMAX-06/blob/main/fon1.png"> 
-<style type=”text/css>
+<style>
   div {
     background-image: url('https://github.com/MADMAX-06/MADMAX-06/blob/main/fon1.png');
   }
