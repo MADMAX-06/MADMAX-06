@@ -1,9 +1,4 @@
 <img src="https://github.com/MADMAX-06/MADMAX-06/blob/main/fon1.png"> 
-<style>
-  div {
-    background-image: url('https://github.com/MADMAX-06/MADMAX-06/blob/main/fon1.png');
-  }
-</style>
 <div align="center" background-image=url(https://github.com/MADMAX-06/MADMAX-06/blob/main/fon1.png)>
   <h1>Hello, i am Maxim</h1>
 </div>
