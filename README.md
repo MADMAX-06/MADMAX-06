@@ -2,7 +2,9 @@
 <div align="center" background-image=url(https://github.com/MADMAX-06/MADMAX-06/blob/main/fon1.png)>
   <h1>Hello, i am Maxim</h1>
 </div>
-
+div {
+  background-image: url('https://github.com/MADMAX-06/MADMAX-06/blob/main/fon1.png');
+}
 ## Сертификаты участия в тестировании
 [CrowTesting Сертификат](https://github.com/cptTAYROS/QA-Tester/blob/main/crowTesting%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.png)
 ## Баг-репорты
