@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hello, i am Maxim</h1>
 </div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img heigh="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
 
 ## Сертификаты участия в тестировании
