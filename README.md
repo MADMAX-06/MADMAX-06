@@ -3,6 +3,8 @@
   <h1>Hello, i am Maxim</h1>
 </div>
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 
 
 ## Сертификаты участия в тестировании
