@@ -11,7 +11,7 @@
 ## Баг-репорты
 [Android приложение "hh работа" - нет капчи](https://docs.google.com/spreadsheets/d/1VZ-kiM_GLxF-2pv-UiUrkqqoigFSiid8KAhRnvqa58o/edit?gid=0#gid=0)
 
-[DeltaForce - разные стиль у ссылки Войти](https://docs.google.com/spreadsheets/d/1roK7wfQSIxPZblTIWWtvbWvsvnclhZbmQzvm40GBalg/edit?usp=sharing)
+[DeltaForce - разный стиль у ссылки Войти](https://docs.google.com/spreadsheets/d/1roK7wfQSIxPZblTIWWtvbWvsvnclhZbmQzvm40GBalg/edit?usp=sharing)
 ## Тест-кейсы
 
 ## Чек-листы
