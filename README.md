@@ -13,5 +13,6 @@
 
 [DeltaForce - разный стиль у ссылки Войти](https://docs.google.com/spreadsheets/d/1roK7wfQSIxPZblTIWWtvbWvsvnclhZbmQzvm40GBalg/edit?usp=sharing)
 ## Тест-кейсы
+[Регистрация нового пользователя/Вход пользователя DeltaForce](https://docs.google.com/spreadsheets/d/1Vf5nmfwEO3d6_7OXsatwoABn-iM0Hb_XHEfrWNDktzU/edit?usp=sharing)
 
 ## Чек-листы
