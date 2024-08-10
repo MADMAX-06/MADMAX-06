@@ -12,6 +12,8 @@
 [Android приложение "hh работа" - нет капчи](https://docs.google.com/spreadsheets/d/1VZ-kiM_GLxF-2pv-UiUrkqqoigFSiid8KAhRnvqa58o/edit?gid=0#gid=0)
 
 [DeltaForce - разный стиль у ссылки Войти](https://docs.google.com/spreadsheets/d/1roK7wfQSIxPZblTIWWtvbWvsvnclhZbmQzvm40GBalg/edit?usp=sharing)
+
+[Jira баг-репорты](https://github.com/MADMAX-06/MADMAX-06/blob/main/Jira%20bug-report/1.png)
 ## Тест-кейсы
 [Регистрация нового пользователя/Вход пользователя DeltaForce - Несколько ОР](https://docs.google.com/spreadsheets/d/1Vf5nmfwEO3d6_7OXsatwoABn-iM0Hb_XHEfrWNDktzU/edit?usp=sharing)
 
