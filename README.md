@@ -13,8 +13,8 @@
 
 [DeltaForce - разный стиль у ссылки Войти](https://docs.google.com/spreadsheets/d/1roK7wfQSIxPZblTIWWtvbWvsvnclhZbmQzvm40GBalg/edit?usp=sharing)
 ## Тест-кейсы
-[Несколько ОР-Регистрация нового пользователя/Вход пользователя DeltaForce](https://docs.google.com/spreadsheets/d/1Vf5nmfwEO3d6_7OXsatwoABn-iM0Hb_XHEfrWNDktzU/edit?usp=sharing)
+[Регистрация нового пользователя/Вход пользователя DeltaForce - Несколько ОР](https://docs.google.com/spreadsheets/d/1Vf5nmfwEO3d6_7OXsatwoABn-iM0Hb_XHEfrWNDktzU/edit?usp=sharing)
 
-[1-ОР-Регистрация нового пользователя/Вход пользователя DeltaForce](https://docs.google.com/spreadsheets/d/1mJx4glTSefflwEGPSplvyfnluh73C8IPJxgpa0RczbM/edit?usp=sharing)
+[Регистрация нового пользователя/Вход пользователя DeltaForce - 1 ОР](https://docs.google.com/spreadsheets/d/1mJx4glTSefflwEGPSplvyfnluh73C8IPJxgpa0RczbM/edit?usp=sharing)
 
 ## Чек-листы
