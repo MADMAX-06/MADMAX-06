@@ -18,15 +18,3 @@
 [Регистрация нового пользователя/Вход пользователя DeltaForce - 1 ОР](https://docs.google.com/spreadsheets/d/1mJx4glTSefflwEGPSplvyfnluh73C8IPJxgpa0RczbM/edit?usp=sharing)
 
 ## Чек-листы
-
-{% vscode %}
-This content is specific to Visual Studio Code.
-{% endvscode %}
-
-{% visualstudio %}
-This content is specific to Visual Studio.
-{% endvisualstudio %}
-
-{% jetbrains %}
-This content is specific to JetBrains IDEs.
-{% endjetbrains %}
