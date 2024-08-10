@@ -14,9 +14,13 @@
 [DeltaForce - разный стиль у ссылки Войти](https://docs.google.com/spreadsheets/d/1roK7wfQSIxPZblTIWWtvbWvsvnclhZbmQzvm40GBalg/edit?usp=sharing)
 
 [Jira баг-репорты -1](https://github.com/MADMAX-06/MADMAX-06/blob/main/Jira%20bug-report/1.png)
+
 [Jira баг-репорты -2](https://github.com/MADMAX-06/MADMAX-06/blob/main/Jira%20bug-report/2.png)
+
 [Jira баг-репорты -3](https://github.com/MADMAX-06/MADMAX-06/blob/main/Jira%20bug-report/3.png)
+
 [Jira баг-репорты -4](https://github.com/MADMAX-06/MADMAX-06/blob/main/Jira%20bug-report/4.png)
+
 ## Тест-кейсы
 [Регистрация нового пользователя/Вход пользователя DeltaForce - Несколько ОР](https://docs.google.com/spreadsheets/d/1Vf5nmfwEO3d6_7OXsatwoABn-iM0Hb_XHEfrWNDktzU/edit?usp=sharing)
 
