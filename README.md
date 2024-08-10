@@ -18,3 +18,4 @@
 [Регистрация нового пользователя/Вход пользователя DeltaForce - 1 ОР](https://docs.google.com/spreadsheets/d/1mJx4glTSefflwEGPSplvyfnluh73C8IPJxgpa0RczbM/edit?usp=sharing)
 
 ## Чек-листы
+https://dzen.ru/video/watch/667e780b4e88011d3388e219?share_to=link
