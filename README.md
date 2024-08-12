@@ -21,6 +21,8 @@
 
 [Jira баг-репорты -4](https://github.com/MADMAX-06/MADMAX-06/blob/main/Jira%20bug-report/4.png)
 
+[Jira баг-репорты -5](https://github.com/MADMAX-06/MADMAX-06/blob/main/Jira%20bug-report/NexaFlora.png)
+
 ## Тест-кейсы
 [Регистрация нового пользователя/Вход пользователя DeltaForce - Несколько ОР](https://docs.google.com/spreadsheets/d/1Vf5nmfwEO3d6_7OXsatwoABn-iM0Hb_XHEfrWNDktzU/edit?usp=sharing)
 
