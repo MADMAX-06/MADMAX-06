@@ -13,6 +13,8 @@
 
 [DeltaForce - разный стиль у ссылки Войти](https://docs.google.com/spreadsheets/d/1roK7wfQSIxPZblTIWWtvbWvsvnclhZbmQzvm40GBalg/edit?usp=sharing)
 
+[Т-Банк - Текст абзаца не соотвествует Т-Банку](https://docs.google.com/spreadsheets/d/1tqoEdvaMyCSuRIE2ncMzYjJrTT2sWGCFAIoJjMkZUx4/edit?usp=sharing)
+
 [Jira баг-репорты -1](https://github.com/MADMAX-06/MADMAX-06/blob/main/Jira%20bug-report/1.png)
 
 [Jira баг-репорты -2](https://github.com/MADMAX-06/MADMAX-06/blob/main/Jira%20bug-report/2.png)
