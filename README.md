@@ -32,3 +32,6 @@
 
 ## Чек-листы
 [Чек-лист NexaFlora](https://docs.google.com/spreadsheets/d/1-4rd60D5VoniwwCkFl2v4Ela62MfgG0L56n0DNpGWcE/edit?usp=sharing)
+
+## Чек-листы API
+[Чек-лист тестирования API]()
