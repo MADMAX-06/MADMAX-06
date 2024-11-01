@@ -30,6 +30,10 @@
 
 [Регистрация нового пользователя/Вход пользователя DeltaForce - 1 ОР](https://docs.google.com/spreadsheets/d/1mJx4glTSefflwEGPSplvyfnluh73C8IPJxgpa0RczbM/edit?usp=sharing)
 
+## Автоматизация тестирвоания на Selenium
+[Проверка нажатия кнопок]()
+
+
 ## Чек-листы
 [Чек-лист NexaFlora](https://docs.google.com/spreadsheets/d/1-4rd60D5VoniwwCkFl2v4Ela62MfgG0L56n0DNpGWcE/edit?usp=sharing)
 
