@@ -32,6 +32,7 @@
 
 ## Автоматизация тестирования на Selenium (Chrome)
 [Проверка нажатия кнопок]()
+[Дискорд. Ввод Email и пароля](https://cloud.mail.ru/public/FdEv/s8yxRT8vn)
 
 
 ## Чек-листы
