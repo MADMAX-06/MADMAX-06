@@ -6,8 +6,12 @@
           
 
 
-## Сертификаты участия в тестировании
-[CrowTesting Сертификат](https://github.com/cptTAYROS/QA-Tester/blob/main/crowTesting%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.png)
+
+## Автоматизация тестирования на Selenium (Chrome)
+[Дискорд. Ввод Email и пароля](https://cloud.mail.ru/public/FdEv/s8yxRT8vn)
+
+[Заполняет форму и добавляет файл](https://cloud.mail.ru/public/FYfS/r1HEp9qU5)
+
 ## Баг-репорты
 [Android приложение "hh работа" - нет капчи](https://docs.google.com/spreadsheets/d/1VZ-kiM_GLxF-2pv-UiUrkqqoigFSiid8KAhRnvqa58o/edit?gid=0#gid=0)
 
@@ -30,10 +34,8 @@
 
 [Регистрация нового пользователя/Вход пользователя DeltaForce - 1 ОР](https://docs.google.com/spreadsheets/d/1mJx4glTSefflwEGPSplvyfnluh73C8IPJxgpa0RczbM/edit?usp=sharing)
 
-## Автоматизация тестирования на Selenium (Chrome)
-[Дискорд. Ввод Email и пароля](https://cloud.mail.ru/public/FdEv/s8yxRT8vn)
-
-[Заполняет форму и добавляет файл](https://cloud.mail.ru/public/FYfS/r1HEp9qU5)
+## Сертификаты участия в тестировании
+[CrowTesting Сертификат](https://github.com/cptTAYROS/QA-Tester/blob/main/crowTesting%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.png)
 
 ## Чек-листы
 [Чек-лист NexaFlora](https://docs.google.com/spreadsheets/d/1-4rd60D5VoniwwCkFl2v4Ela62MfgG0L56n0DNpGWcE/edit?usp=sharing)
