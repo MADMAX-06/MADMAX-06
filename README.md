@@ -32,7 +32,7 @@
 
 ## Автоматизация тестирования на Selenium (Chrome)
 [Дискорд. Ввод Email и пароля](https://cloud.mail.ru/public/FdEv/s8yxRT8vn)
-
+[Заполняет форму и добавляет файл](https://cloud.mail.ru/public/FYfS/r1HEp9qU5)
 
 ## Чек-листы
 [Чек-лист NexaFlora](https://docs.google.com/spreadsheets/d/1-4rd60D5VoniwwCkFl2v4Ela62MfgG0L56n0DNpGWcE/edit?usp=sharing)
