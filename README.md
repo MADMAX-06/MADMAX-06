@@ -12,7 +12,9 @@
 
 [Заполняет форму и добавляет файл](https://cloud.mail.ru/public/FYfS/r1HEp9qU5)
 
-[Steam автотест 1](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/Find_Game2.py)
+[Steam автотест 1](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/steam/Find_Game2.py)
+
+[Поиск тарифа t2](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/t2/tele2.py)
 
 ## Баг-репорты
 [Android приложение "hh работа" - нет капчи](https://docs.google.com/spreadsheets/d/1VZ-kiM_GLxF-2pv-UiUrkqqoigFSiid8KAhRnvqa58o/edit?gid=0#gid=0)
