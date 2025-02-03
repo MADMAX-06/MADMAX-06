@@ -14,7 +14,9 @@
 
 [Заполняет форму и добавляет файл](https://cloud.mail.ru/public/FYfS/r1HEp9qU5)
 
-[Steam автотест 1](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/Find_Game2.py)
+[Steam автотест 1](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/steam/Find_Game2.py)
+
+[Поиск тарифа t2](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/t2/tele2.py)
 
 [Поиск работы на hh](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/hh/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_hh.py)
 
