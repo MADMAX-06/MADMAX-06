@@ -1,18 +1,22 @@
 <img src="https://github.com/MADMAX-06/MADMAX-06/blob/main/fon1.png"> 
 <div align="center">
   <h1>Hello, i am Maxim</h1>
+  <p>Обо мне:</p>
+  <p>Я начинающий тестировщик. В данный момент изучаю автоматизацию тестирования на Python. Также интересуюсь Frontend разработкой.</p>
 </div>
 
           
 
 
 
-## Автоматизация тестирования на Selenium (Chrome)
+## Автоматизация тестирования на Selenium (Chrome) - примеры тестов
 [Дискорд. Ввод Email и пароля](https://cloud.mail.ru/public/FdEv/s8yxRT8vn)
 
 [Заполняет форму и добавляет файл](https://cloud.mail.ru/public/FYfS/r1HEp9qU5)
 
 [Steam автотест 1](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/Find_Game2.py)
+
+[Поиск работы на hh](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/hh/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_hh.py)
 
 ## Баг-репорты
 [Android приложение "hh работа" - нет капчи](https://docs.google.com/spreadsheets/d/1VZ-kiM_GLxF-2pv-UiUrkqqoigFSiid8KAhRnvqa58o/edit?gid=0#gid=0)
@@ -44,3 +48,8 @@
 
 ## Чек-листы API
 [Чек-лист тестирования API]()
+
+
+| Курсы: | Дата: |
+| --- | --- |
+| Автоматизация тестирования с помощью Selenium и Python | --- |
