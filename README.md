@@ -3,13 +3,14 @@
   <h1>Hello, i am Maxim</h1>
   <p>Обо мне:</p>
   <p>Я начинающий тестировщик. В данный момент изучаю автоматизацию тестирования на Python. Также интересуюсь Frontend разработкой.</p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,pycharm,postman,visualstudio)](https://skillicons.dev)
+
 </div>
 
-          
+         
 
-
-
-## Автоматизация тестирования на Selenium (Chrome) - примеры тестов
+## Автоматизация тестирования на Selenium - примеры автотестов для браузера Chrome 
 [Дискорд. Ввод Email и пароля](https://cloud.mail.ru/public/FdEv/s8yxRT8vn)
 
 [Заполняет форму и добавляет файл](https://cloud.mail.ru/public/FYfS/r1HEp9qU5)
@@ -50,6 +51,7 @@
 
 ## Чек-листы API
 [Чек-лист тестирования API]()
+
 
 
 | Курсы: | Дата: |
