@@ -7,6 +7,15 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,pycharm,postman,visualstudio)](https://skillicons.dev)
 
 </div>
+<div>Стремлюсь к работе в компании, где смогу применять свои знания и опыт в области тестирования веб-приложений, а также развивать навыки работы с HTML, CSS и JavaScript.
+
+Автоматизированное тестирование: Опыт использования Selenium WebDriver для создания автоматизированных тестов.
+
+Postman: Использование Postman для тестирования API, включая создание коллекций запросов, написание пред- и пост запросов, а также работу с переменными окружения.
+
+Figma: Работа с макетами и прототипами в Figma для проверки соответствия дизайна и функционала разработанных страниц требованиям спецификации.</div>
+
+
 
          
 
@@ -20,6 +29,10 @@
 [Поиск тарифа t2](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/t2/tele2.py)
 
 [Поиск работы на hh](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/hh/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_hh.py)
+
+[Оформление карты tbank](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/tbank/tbank.py)
+
+[Поиск книги на OZON](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/ozon/ozon_buy1.py)
 
 ## Баг-репорты
 [Android приложение "hh работа" - нет капчи](https://docs.google.com/spreadsheets/d/1VZ-kiM_GLxF-2pv-UiUrkqqoigFSiid8KAhRnvqa58o/edit?gid=0#gid=0)
