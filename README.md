@@ -34,6 +34,8 @@ Figma: Работа с макетами и прототипами в Figma дл�
 
 [Поиск книги на OZON](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/ozon/ozon_buy1.py)
 
+[Автотест GET запроса API](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/API_tests/hr_recruit_getAPI.py)
+
 ## Баг-репорты
 [Android приложение "hh работа" - нет капчи](https://docs.google.com/spreadsheets/d/1VZ-kiM_GLxF-2pv-UiUrkqqoigFSiid8KAhRnvqa58o/edit?gid=0#gid=0)
 
