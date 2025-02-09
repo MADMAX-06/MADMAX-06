@@ -15,13 +15,12 @@ def test_get_users():
     # Проверяем статус-код ответа
     assert response.status_code == 200
 
-    # Дополнительно можно проверить содержимое ответа
     data = response.json()
-    '''print(data)'''
+
     # Форматируем JSON и выводим его
     formatted_json = json.dumps(data, indent=4, ensure_ascii=False)
     print("Тест пройден")
-    print(f"Полученные данные в формате JSON: {formatted_json}")
+    print(f"Получены данные в формате JSON: {formatted_json}")
 
 # Вызов функции
 test_get_users()

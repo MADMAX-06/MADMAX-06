@@ -41,7 +41,7 @@ def test_post_pet():
     # Форматируем JSON и выводим его
     formatted_json = json.dumps(response_data, indent=4, ensure_ascii=False)
     print("Тест пройден")
-    print(f"Полученны данные в формате JSON: {formatted_json}")
+    print(f"Получены данные в формате JSON: {formatted_json}")
 
 if __name__ == "__main__":
     test_post_pet()
