@@ -21,7 +21,7 @@ stealth(driver,
         renderer="Intel Iris OpenGL Engine",
         fix_hairline=True,
         )
-# Autotest. Пользователь пытается зайти на сайт не заполнив поле email, "
+# Autotest. Пользователь пытается зайти на сайт заполнив поле email некорректными данными, "
 
 # Переходим на сайт
 driver.get("https://www.ozon.ru/")
@@ -33,13 +33,18 @@ time.sleep(2)
 iframe = driver.find_element(By.ID, "authFrame")
 driver.switch_to.frame(iframe)
 
+find_button_email = driver.find_element(By.CLASS_NAME, "lca1_47").click()
+
+time.sleep(2)
+email_name = driver.find_element(By.ID, "email").send_keys("d43$#@!$%^&*(%>")
+
 time.sleep(2)
 button_auth = driver.find_element(By.CLASS_NAME, "b2121-a0").click()
 
 time.sleep(1)
 info_auth = driver.find_element(By.CLASS_NAME, "c8012-a2")
 
-info_find_account = ("Заполните почту")
+info_find_account = ("Некорректный формат почты")
 
 def test_check_info_auth():
     assert info_auth.text == info_find_account, f"Ожидаемый результат {info_find_account}"
