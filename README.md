@@ -51,7 +51,7 @@ Figma: Работа с макетами и прототипами в Figma дл�
 
 | Негативное тестирование: | Ручное тестирование: | Автоматизация тестирования |
 | --- | --- | --- |
-| Авторизация с пустым полем для номера телефона | Ссылка | [Ссылка](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/ozon/ozon_profile4.py) |
+| Авторизация с пустым полем для номера телефона | [Ссылка](https://docs.google.com/spreadsheets/d/1aiHy5yRcwDu81cM4i9nziICbwIiR9TdCgB17zaspInU/edit?usp=sharing) | [Ссылка](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/ozon/ozon_profile4.py) |
 | Авторизация с пустым полем для Email | --- | [Ссылка](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/ozon/ozon_profile2.py) |
 | Авторизация с незарегистрированным Email | --- | [Ссылка](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/ozon/ozon_profile.py) |
 | Авторизация с некорретными данными в поле для Email | --- | [Ссылка](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/ozon/ozon_profile3.py) |
