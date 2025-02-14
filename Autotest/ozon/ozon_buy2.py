@@ -56,6 +56,23 @@ inputs_in_div.send_keys(Keys.TAB)
 inputs_in_div_2 = driver.find_element(By.XPATH, "/html/body/div[1]/div/div[1]/div/div[2]/div[1]/div/aside/div[2]/div[9]/div[2]/div[1]/div/div[2]/div/input")
 inputs_in_div_2.send_keys([Keys.BACKSPACE] * 3)
 inputs_in_div_2.send_keys("600")
+inputs_in_div_2.send_keys(Keys.ENTER)
+time.sleep(2)
+
+# Гарантированно поднять страницу вверх
+driver.execute_script("window.scrollTo(0, 0);")
+
+find_result_search = driver.find_element(By.CSS_SELECTOR, "[data-widget='searchResultsV2']")
+result_search = find_result_search.text
+#print(result_search)
+
+brand = "Kingston"
+flashka = "Карта памяти"
+
+def test_check_result():
+     assert brand in result_search, f"Ожидаемый результат" # Проверяет, что присутствует название брэнда
+     assert flashka in result_search, f"Ожидаемый результат" # Проверяет, что присутствует название товара
+
 
 time.sleep(5)
 # закрываем браузер после всех манипуляций
