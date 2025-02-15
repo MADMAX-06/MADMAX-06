@@ -22,6 +22,7 @@ stealth(driver,
         fix_hairline=True,
         )
 # Autotest. Пользователь использует телефон для входа"
+# Требует доработки
 
 # Переходим на сайт
 driver.get("https://www.ozon.ru/")
