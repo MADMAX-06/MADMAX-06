@@ -17,5 +17,7 @@ find_button = driver.find_element(By.CSS_SELECTOR, "a[href='/configurator/']")
 find_button.click()
 
 find_button_2 = driver.find_element(By.CSS_SELECTOR, "div[data-url='https://www.citilink.ru/configurator/add/']").click()
+time.sleep(2)
+find_cpu = driver.find_element(By.CSS_SELECTOR, "img[alt='Процессор']").click()
 
 time.sleep(10)
