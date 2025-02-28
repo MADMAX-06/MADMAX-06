@@ -56,6 +56,8 @@ Figma: Работа с макетами и прототипами в Figma дл�
 | Авторизация с незарегистрированным Email | --- | [Ссылка](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/ozon/ozon_profile.py) |
 | Авторизация с некорретными данными в поле для Email | --- | [Ссылка](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/ozon/ozon_profile3.py) |
 
+[Набор тест-кейсов авторизации в OZON](https://github.com/MADMAX-06/MADMAX-06/blob/main/Autotest/ozon/test_ozon_auth.py)
+
 ## Комбинации значений для тест-кейсов OZON Зимняя Призоловля
 
 [Товары категории "Одежда и обувь" на сумму от 1500 руб.](https://docs.google.com/spreadsheets/d/1bMwbN54N2cUnc68d_tb4TBwVt-1lBvZvJ9eYsoYWFjA/edit?usp=sharing)
