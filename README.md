@@ -4,7 +4,7 @@
   <p>Обо мне:</p>
   <p>Я начинающий тестировщик. В данный момент изучаю автоматизацию тестирования на Python. Также интересуюсь Frontend разработкой.</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,pycharm,postman,visualstudio,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,pycharm,postman,vscode,androidstudio)](https://skillicons.dev)
 
 </div>
 <div>Стремлюсь к работе в компании, где смогу применять свои знания и опыт в области тестирования веб-приложений, а также развивать навыки работы с HTML, CSS и JavaScript.
