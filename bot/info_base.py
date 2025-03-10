@@ -1,6 +1,6 @@
-info_base = ('SELECT CONCAT(firstname,',',lastname) FROM table',
-              'SELECT firstname FROM table',
-              'SELECT * FROM table',)
+info_base = ("SELECT CONCAT(firstname, ',' ,lastname) FROM table",
+              "SELECT firstname FROM table",
+              "SELECT * FROM table")
 
 def sql_info():
     sql_i = "SQL — декларативный язык программирования, применяемый для создания, модификации и управления данными в реляционной базе данных, управляемой соответствующей системой управления базами данных."
