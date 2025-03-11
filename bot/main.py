@@ -24,7 +24,7 @@ def start_message(message):
     markup.add(action_button_3)
     # приветсвенное сообщение для команды /start
     bot.send_message(message.chat.id, text="Привет, {0.first_name} 👋\nВоспользуйся кнопками".format(message.from_user), reply_markup=markup)
-    bot.send_photo(message.chat.id, photo=open('/img/bot.jpg', 'rb'))
+    bot.send_photo(message.chat.id, photo=open('img/bot.jpg', 'rb'))
 
 # хендлер для обработки нажатий кнопок
 @bot.message_handler(content_types=['text'])
