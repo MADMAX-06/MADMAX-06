@@ -17,6 +17,12 @@ ORDER BY ('столбец, по которому хотим отсортиров
     '''
     return structurs
 
+def sql_where():
+    func_where = '''
+    SELECT * FROM name_table WHERE firstname = "Max"
+    '''
+    return func_where
+
 def testirov():
     func_test = '''
     Тестирование ПО - это проверка соответствия между реальным поведением программы и ее ожидаемым поведением.
@@ -27,3 +33,4 @@ def func_testir():
     func_test2 = '''
     Это самый популярный вид тестирования, который проверяет соответствие функциональности продукта тому, как он был задуман.
     '''
+    return func_test2
