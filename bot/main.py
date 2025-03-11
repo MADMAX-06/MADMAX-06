@@ -2,7 +2,7 @@ import telebot # импортируем telebot
 from secrets import secrets # словарь с токеном из файла secrets.py
 from telebot import types # для определения типов
 import random # для выбора случайного комплимента
-from info_base import sql_info, structura, testirov  # коллекция комплиментов
+from info_base import sql_info, structura, testirov 
 
 
 # передаём значение переменной с кодом экземпляру бота
