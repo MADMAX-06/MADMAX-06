@@ -16,7 +16,7 @@ def start_message(message):
     # создаём кнопки бота
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     start_button = types.KeyboardButton("🚀 Старт")
-    action_button = types.KeyboardButton("POST запросы")
+    action_button = types.KeyboardButton("Работа с API")
     action_button_2 = types.KeyboardButton("Команды SQL")
     action_button_3 = types.KeyboardButton("Тестировщик")
     markup.add(start_button, action_button)
@@ -26,11 +26,16 @@ def start_message(message):
     bot.send_message(message.chat.id, text="Привет, {0.first_name} 👋\nВоспользуйся кнопками".format(message.from_user), reply_markup=markup)
     bot.send_photo(message.chat.id, photo=open('img/bot.jpg', 'rb'))
 
+
 # хендлер для обработки нажатий кнопок
 @bot.message_handler(content_types=['text'])
 def buttons(message):
     if (message.text == "🚀 Старт"):
         bot.send_message(message.chat.id, text="Бот содержит информацию по SQL, а также по тестированию ПО")
+
+    elif (message.text == "Работа с API"):
+        bot.send_message(message.chat.id, text="Раздел в разработке")
+
     elif (message.text == "Тестировщик"):
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
         testir_button = types.KeyboardButton("Тестирование - это")
