@@ -2,7 +2,7 @@ import telebot # импортируем telebot
 from secrets import secrets # словарь с токеном из файла secrets.py
 from telebot import types # для определения типов
 import random # для выбора случайного комплимента
-from info_base import sql_info, structura, testirov 
+from info_base import sql_info, structura, testirov, info_base
 
 
 # передаём значение переменной с кодом экземпляру бота
@@ -24,6 +24,8 @@ def start_message(message):
     markup.add(action_button_3)
     # приветсвенное сообщение для команды /start
     bot.send_message(message.chat.id, text="Привет, {0.first_name} 👋\nВоспользуйся кнопками".format(message.from_user), reply_markup=markup)
+    bot.send_photo(message.chat.id, photo=open('/img/bot.jpg', 'rb'))
+
 # хендлер для обработки нажатий кнопок
 @bot.message_handler(content_types=['text'])
 def buttons(message):
@@ -40,13 +42,18 @@ def buttons(message):
     elif (message.text == "Тестирование - это"):
         bot.send_message(message.chat.id, text=testirov())
 
+    elif (message.text == "Пример SELECT"):
+        bot.send_message(message.chat.id, text=f"{random.choice(info_base)}")
 
     elif (message.text == "Команды SQL"):
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
         sql_button = types.KeyboardButton("SQL-это")
         sql_select_btn = types.KeyboardButton("Структура")
+        sql_select_btn2 = types.KeyboardButton("Пример SELECT")
         markup.add(sql_button)
         markup.add(sql_select_btn)
+        markup.add(sql_select_btn2)
+
         bot.send_message(message.chat.id, "Выберите команду:", reply_markup=markup)
     elif (message.text == "SQL-это"):
         bot.send_message(message.chat.id, text=sql_info())
