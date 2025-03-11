@@ -30,7 +30,7 @@ def start_message(message):
 @bot.message_handler(content_types=['text'])
 def buttons(message):
     if (message.text == "🚀 Старт"):
-        bot.send_message(message.chat.id, text="Бот содержит информацию по SQL и что такое тестирование")
+        bot.send_message(message.chat.id, text="Бот содержит информацию по SQL, а также по тестированию ПО")
     elif (message.text == "Тестировщик"):
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
         testir_button = types.KeyboardButton("Тестирование - это")
