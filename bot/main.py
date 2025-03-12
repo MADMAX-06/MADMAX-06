@@ -30,13 +30,13 @@ def start_message(message):
 # хендлер для обработки нажатий кнопок
 @bot.message_handler(content_types=['text'])
 def buttons(message):
-    if (message.text == "🚀 Старт"):
+    if message.text == "🚀 Старт":
         bot.send_message(message.chat.id, text="Бот содержит информацию по SQL, а также по тестированию ПО")
 
-    elif (message.text == "Работа с API"):
+    elif message.text == "Работа с API":
         bot.send_message(message.chat.id, text="Раздел в разработке")
 
-    elif (message.text == "Тестировщик"):
+    elif message.text == "Тестировщик":
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
         testir_button = types.KeyboardButton("Тестирование - это")
         testir_button2 = types.KeyboardButton("Виды тестирования")
@@ -44,13 +44,13 @@ def buttons(message):
         markup.add(testir_button2)
         bot.send_message(message.chat.id, "Выберите команду:", reply_markup=markup)
 
-    elif (message.text == "Тестирование - это"):
+    elif message.text == "Тестирование - это":
         bot.send_message(message.chat.id, text=testirov())
 
-    elif (message.text == "Пример SELECT"):
+    elif message.text == "Пример SELECT":
         bot.send_message(message.chat.id, text=f"{random.choice(info_base)}")
 
-    elif (message.text == "Команды SQL"):
+    elif message.text == "Команды SQL":
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
         sql_button = types.KeyboardButton("SQL-это")
         sql_select_btn = types.KeyboardButton("Структура")
@@ -60,14 +60,13 @@ def buttons(message):
         markup.add(sql_select_btn2)
 
         bot.send_message(message.chat.id, "Выберите команду:", reply_markup=markup)
-    elif (message.text == "SQL-это"):
+    elif message.text == "SQL-это":
         bot.send_message(message.chat.id, text=sql_info())
-    elif (message.text == "Структура"):
+    elif message.text == "Структура":
         bot.send_message(message.chat.id, text=structura())
 
     else:
         bot.send_message(message.chat.id, text="Я могу отвечать только на нажатие кнопок")
-
 
 
 # бесконечное выполнение кода
