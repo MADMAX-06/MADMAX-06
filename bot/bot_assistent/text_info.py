@@ -21,3 +21,9 @@ experience_message = {
     "sis_adm": "Опыт работы системным администратором. Работал по ТК РФ.",
     "qa": "Опыт работы тестировщиком. Работал в статусе самозанятого."
 }
+
+img_url = {
+    "bot_logo": "img/bot_info.jpg",
+    "work_place": "img/work_place.jpg",
+    "experience_mem": "img/experience.jpg",
+}
