@@ -27,3 +27,7 @@ img_url = {
     "work_place": "img/work_place.jpg",
     "experience_mem": "img/experience.jpg",
 }
+
+doc_url = {
+    "resume": "document/Рябов Максим Николаевич.pdf"
+}
