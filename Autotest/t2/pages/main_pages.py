@@ -2,6 +2,12 @@ from selenium.webdriver.common.by import By
 from pages.BaseApp import BasePage
 import time
 
+
+class MainMenu:
+    SEARCH_BUTTON_LOCATOR = (By.XPATH, "")
+    LOGIN_BUTTON = (By.XPATH, "")
+
+
 class T2TarifName:
     TARIF_HVATIT = "ХВАТИТ!"
     TARIF_MY_ONLINE_PLUS = "МОЙ ОНЛАЙН+"
