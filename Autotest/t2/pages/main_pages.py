@@ -27,3 +27,21 @@ class SearchTarifT2(BasePage):
         time.sleep(5)
         actual_info = element.text
         assert actual_info == expected_result, f"Ожидаемый результат {expected_result}"
+
+    def test_check_tarif_myonline(self):
+        expected_result = T2TarifName.TARIF_MY_ONLINE_PLUS
+        self.driver.get(self.base_url)
+        time.sleep(5)
+        element = self.driver.find_element(T2TarifLocators.TARIF_MY_ONLINE_PLUS_LOCATORS)
+        time.sleep(5)
+        actual_info = element.text
+        assert actual_info == expected_result, f"Ожидаемый результат {expected_result}"
+
+    def test_check_tarif_vezde_online(self):
+        expected_result = T2TarifName.TARIF_VEZDE_ONLINE
+        self.driver.get(self.base.url)
+        time.sleep(5)
+        element = self.driver.find_element(T2TarifLocators.TARIF_VEZDE_ONLINE)
+        time.sleep(5)
+        actual_info = element.text
+        assert actual_info == expected_result, f"Ожидаемый результат {expected_result}"
