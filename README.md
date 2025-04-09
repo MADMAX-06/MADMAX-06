@@ -76,6 +76,8 @@ Figma: Работа с макетами и прототипами в Figma дл�
 [Код на Python для ввода тест-кейсов](https://github.com/MADMAX-06/MADMAX-06/blob/main/python_codes/date_registration.py)
 
 ## Баг-репорты
+[Баг-репорты интернет магазина http://ts.red-promo.ru/](https://docs.google.com/spreadsheets/d/1FsuYceCXVd0RYz0QggzHOldavethPAEgMceWVhg4pVM/edit?gid=0#gid=0)
+
 [Android приложение "hh работа" - нет капчи](https://docs.google.com/spreadsheets/d/1VZ-kiM_GLxF-2pv-UiUrkqqoigFSiid8KAhRnvqa58o/edit?gid=0#gid=0)
 
 [DeltaForce - разный стиль у ссылки Войти](https://docs.google.com/spreadsheets/d/1roK7wfQSIxPZblTIWWtvbWvsvnclhZbmQzvm40GBalg/edit?usp=sharing)
